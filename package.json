@@ -1,0 +1,10 @@
+{
+  "name": "pique",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Uladzislau Hlebovich",
+  "private": true,
+  "workspaces": [
+    "backend"
+  ]
+}
