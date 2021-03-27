@@ -1,0 +1,15 @@
+{
+  "wrappingStyle": "prettier",
+  "keepUnused": [".*"],
+  "groupRules": [
+    [{}],
+    [
+      "^@api-interfaces(.*)",
+      "^[./](shared|utils)(.*)",
+      "^[./](.*).module",
+      "^[./](.*).service",
+      "^[./](.*).controller",
+      "^[./]"
+    ]
+  ]
+}
