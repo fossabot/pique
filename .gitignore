@@ -1,5 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# runtime data
+/backend/data
+
 # compiled output
 /backend/dist
 /backend/coverage
